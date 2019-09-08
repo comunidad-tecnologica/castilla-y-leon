@@ -27,7 +27,7 @@ Lista de eventos que se celebran todos los años en Castilla y León:
 
 ### Salamanca
 
-* [:bird](https://twitter.com/DevsSalamanca) [Salamanca Devs](https://www.meetup.com/es-ES/Salamanca-Devs/)
+* [:bird:](https://twitter.com/DevsSalamanca) [Salamanca Devs](https://www.meetup.com/es-ES/Salamanca-Devs/)
 * [:bird:](https://twitter.com/gdgsalamanca) [GDG Salamanca](https://www.meetup.com/es-ES/GDGSalamanca/)
 * [:bird:](https://twitter.com/wpsalamanca) [Salamanca WordPress](https://www.meetup.com/es-ES/Salamanca-WordPress-Meetup/)
 
