@@ -43,8 +43,12 @@ Lista de eventos que se celebran todos los años en Castilla y León:
 * [Pucela JS](https://www.meetup.com/es-ES/Pucela-JS/)
 * [:bird:](https://twitter.com/wpvalladolid) [Valladolid WordPress](https://www.meetup.com/es-ES/Valladolid-WordPress-Meetup/)
 
+### Zamora
+* [:bird:](https://twitter.com/ZamoraDevs) [Zamora Developers](https://www.meetup.com/es-ES/Zamora-Developers/)
+
 ## Slack
 
 * [CyLicon Valley](https://cyliconvalley.herokuapp.com/)
 * [NSValladolid](https://nsvalladolid.slack.com/join/shared_invite/enQtNDU0NDAzOTQ2NTAyLWU5OTAxN2M4NmM5NWNmYjQ1NmFiZGQ1NTQwNjdjZjc2MTg5NWI4ZmI3YzIyYTAyZWE0YWY4NWRhMWNmYTgwOTI)
 * [Salamanca Wordpress](https://wp-salamanca.slack.com/join/shared_invite/enQtNjE5ODk0MDAxNjE2LTE4NjcxMzA3MTNhMzNhOWVmODgzM2RmNWQwNjZhYWE0OWExY2YzMzhkZmU4ZDZlZDhhODdhZTk5MTc2MzBkOTI)
+* [Zamora Developers](https://zamoradevelopers.slack.com/join/shared_invite/enQtNzkyNjIyMTA4MTUxLWMxYjUxNDQ1NWEzMjcyOGEwZWEwMzNjYTZhODViOGVmYzc1NTM1NzIyZGEyYzM3ZjJkODk1NWY2YzVkYTE0NTM)
